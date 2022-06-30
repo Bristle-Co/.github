@@ -1,8 +1,8 @@
 ## Interal Software for Bristle Co., Ltd
-# Based in Taiwan, Taoyuan, Longtan
-# Wheel Brush manufacturing
-# Software tools developed by Anderson Hsieh 謝衡鞍 IG@anderson_hsieh0330
-# Contact Email: Info@bristle.com.tw
+### Based in Taiwan, Taoyuan, Longtan
+### Wheel Brush manufacturing
+### Software tools developed by Anderson Hsieh 謝衡鞍 IG@anderson_hsieh0330
+### Contact Email: Info@bristle.com.tw
 
 <!--
 
