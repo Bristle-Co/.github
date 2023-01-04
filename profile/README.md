@@ -6,5 +6,5 @@
 ### Contact Info
 - info@bristle.com.tw
 - +886 (03) 4716969 
-- +886 974135741, CEO: Kevin Hsieh 謝永慶
+- +886 937682309, CEO: Kevin Hsieh 謝永慶
 - +1 2262014836, Software Development: Anderson Hsieh 謝衡鞍
