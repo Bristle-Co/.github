@@ -1,6 +1,6 @@
 ### Interal Software for Bristle Co., Ltd
 - Based in Taiwan, Taoyuan, Longtan
-- Wheel Brush(PCB manufacturing supply) manufacturing
+- Wheel Brush (consumable supply in PCB manufacturing process) manufacturing
 - Software tools developed by Anderson Hsieh 謝衡鞍 [IG@anderson_hsieh_](https://www.instagram.com/anderson_hsieh_/)
 
 ### Contact Info
